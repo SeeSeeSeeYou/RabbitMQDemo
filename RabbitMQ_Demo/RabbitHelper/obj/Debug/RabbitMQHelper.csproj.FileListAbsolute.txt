@@ -1,0 +1,17 @@
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\bin\Debug\RabbitHelper.dll
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\bin\Debug\RabbitHelper.pdb
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\bin\Debug\RabbitMQ.Client.dll
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\bin\Debug\System.Buffers.dll
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\bin\Debug\System.Memory.dll
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\bin\Debug\System.Numerics.Vectors.dll
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\bin\Debug\RabbitMQ.Client.pdb
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\bin\Debug\RabbitMQ.Client.xml
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\bin\Debug\System.Buffers.xml
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\bin\Debug\System.Memory.xml
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\bin\Debug\System.Numerics.Vectors.xml
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\obj\Debug\RabbitMQHelper.csprojAssemblyReference.cache
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\obj\Debug\RabbitMQHelper.csproj.CopyComplete
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\obj\Debug\RabbitHelper.dll
+G:\GitCode\RabbitMQDemo\RabbitMQ_Demo\RabbitHelper\obj\Debug\RabbitHelper.pdb
